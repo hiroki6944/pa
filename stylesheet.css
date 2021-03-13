@@ -125,6 +125,9 @@ span{
     width: 50%;
     margin: auto;
 }
+.clear{
+    clear: left;
+}
 .gazou {
     width: 260px;
     height: 260px;
