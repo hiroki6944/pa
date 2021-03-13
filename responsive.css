@@ -41,7 +41,8 @@
        }
        .work-contents a{
            display: block;
-           text-align: center;
+            width: 60%;
+           margin: auto;
        }
        .unko5 p{
            font-size: 15px;
