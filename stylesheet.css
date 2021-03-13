@@ -13,8 +13,8 @@ body {
     background-repeat: no-repeat;
    
 }
-.header-container {
-    padding: 20px 40px;
+.container {
+    padding: 10px 20px;
     width: 100%;
 }
 .names {
