@@ -17,30 +17,6 @@
            margin: 0;
        }
        
-     .header{
-           background-size: contain;
-           background-repeat: no-repeat;
-           width: 100%;
-       }
-       .top-wrapper{
-           background-size: contain;
-           background-repeat: no-repeat;
-           width: 100%;
-       }
-       .skill-wrapper{
-           background-size:contain;
-           background-repeat: no-repeat;
-           width: 100%;
-       }
-       .service-wrapper{
-           background-size: contain;
-           background-repeat: no-repeat;
-           width: 100%;
-       }
-       .work-wrapper{
-           background-size: contain;
-           background-repeat: no-repeat;
-           width: 100%;
-       }
+     
     
     }
