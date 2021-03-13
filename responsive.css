@@ -17,20 +17,25 @@
            margin: 0;
        }
        
-       .header{
-           background-size: cover;
+      .header{
+           background-size: contain;
+           background-repeat: no-repeat;
        }
        .top-wrapper{
-           background-size: cover;
+           background-size: contain;
+           background-repeat: no-repeat;
        }
        .skill-wrapper{
-           background-size: cover;
+           background-size:contain;
+           background-repeat: no-repeat;
        }
        .service-wrapper{
-           background-size: cover;
+           background-size: contain;
+           background-repeat: no-repeat;
        }
        .work-wrapper{
-           background-size: cover;
+           background-size: contain;
+           background-repeat: no-repeat;
        }
     
     }
