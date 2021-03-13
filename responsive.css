@@ -16,5 +16,21 @@
            padding: 0;
            margin: 0;
        }
+       
+       .header{
+           background-size: cover;
+       }
+       .top-wrapper{
+           background-size: cover;
+       }
+       .skill-wrapper{
+           background-size: cover;
+       }
+       .service-wrapper{
+           background-size: cover;
+       }
+       .work-wrapper{
+           background-size: cover;
+       }
     
     }
