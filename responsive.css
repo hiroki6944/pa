@@ -39,9 +39,11 @@
        .service-icon p{
            font-size: 20px;
        }
-       .work-contents a{
-           display: block;
-            
+       .work-contents li{
+           width: 70%;
+           margin: auto;
+           
+           
        }
        .unko5 p{
            font-size: 15px;
