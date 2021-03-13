@@ -21,6 +21,11 @@
            width: 100%;
        }
        
+       .top-wrapper{
+           height: 100%;
+       }
+    
+       
        .names{
            font-size: 45px;
            text-align: center;
