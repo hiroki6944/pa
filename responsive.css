@@ -18,7 +18,7 @@
        }
        
        .names{
-           font-size: 50px;
+           font-size: 45px;
        }
        .iii{
            font-size: 40px;
@@ -28,6 +28,24 @@
          width: 50%;  
        }
        
+       .intro{
+           width: 70%;
+       }
+       
+       .unko p{
+           font-size: 20px;
+       }
+       
+       .service-icon p{
+           font-size: 20px;
+       }
+       .work-contents a{
+           display: block;
+           text-align: center;
+       }
+       .unko5 p{
+           font-size: 15px;
+       }
      
     
     }
