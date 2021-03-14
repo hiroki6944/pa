@@ -16,10 +16,8 @@
            padding: 0;
            margin: 0;
        }
-       
-       
+      
     
-       
        .names{
            font-size: 45px;
            text-align: center;
@@ -28,17 +26,13 @@
            font-size: 40px;
            text-align: center;
        }
-       
        .srvice-icon{
-         width: 50%;  
+           width: 50%;
        }
-       
-       
        
        .unko p{
            font-size: 20px;
        }
-       
        .service-icon p{
            font-size: 20px;
        }
@@ -51,6 +45,89 @@
        .unko5 p{
            font-size: 15px;
        }
-     
-    
+    }
+
+
+    /* モバイルS */
+    @media (max-width: 320px) {
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        .header{
+            height: 260px;
+        }
+        .top-wrapper{
+            height: 100%;
+        }
+        .service-wrapper{
+            height: 100%;
+        }
+        .work-wrapper{
+            height: 100%;
+        }
+        .footer{
+            height: 100%;
+        }
+
+        .names {
+            font-size: 20px;
+            margin-top: 30px;
+
+        }
+        .iii {
+            font-size: 15px;
+        }
+        .skill  {
+            text-align: center;
+        }
+
+        .unko5 p{
+            color: white;
+        }
+        .work-contents li{
+            margin-bottom: 40px;
+           
+        }
+    }
+
+
+    @media (min-width: 320px) {
+        .header{
+            height: 100%;
+        }
+        .top-wrapper{
+            height: 100%;
+        }
+        .skill-wrapper{
+            height: 100%;
+        }
+        .service-wrapper{
+            height: 100%;
+        }
+        .work-wrapper{
+            height: 100%;
+        }
+
+        .unko5 p{
+            color: white;
+        }
+
+        .work-contents li{
+            margin-bottom: 40px;
+           
+        }
+    }
+
+    @media (min-width:425px) {
+        
+        .work-contents li{
+            margin: auto;
+            width: 70%;
+            margin-bottom: 30px;
+        }
+
+      
+        
     }
